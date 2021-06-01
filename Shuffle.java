@@ -1,5 +1,3 @@
-package com.company.leetcode;
-
 public class Shuffle {
         public int[] shuffle(int[] nums, int n) {
         /*
