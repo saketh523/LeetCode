@@ -1,5 +1,3 @@
-package com.company.leetcode;
-
 public class RunningSum {
         public int[] runningSum(int[] nums) {
 
